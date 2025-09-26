@@ -1,0 +1,29 @@
+INSTRUCCIONES:
+ GUÍA RÁPIDA DEL DASHBOARD
+
+Este dashboard está organizado en 3 secciones principales cada una 
+con su respectivo botón que te direcciona a la pestaña:
+
+🔹 PESTAÑA "GENERAL"
+Alcance x Plataforma: Compare desempeño entre DV360, Meta, TikTok, YouTube
+
+CPC por Plataforma y Audiencia: Identifique eficiencia de costos por segmento
+
+Sentimientos Audiencia x Plataforma: Analice percepción de marca por grupo
+
+CTR and CPM by Day: Vea tendencias diarias y correlaciones
+
+🔹 PESTAÑA "AUDIENCIA" 
+Distribución por Dispositivo: Vea Impresiones y Alcance por Smartphone, Desktop, Tablet, CTV
+
+Performance por Creatividad:
+
+Smartphone: Analice desempeño por marca (Apple, Honor, Motorola, etc.)
+
+Tablet: Revise efectividad de creatividades en tablets
+
+Comparativas: Identique qué dispositivos y creatividades generan mejor engagement
+
+🔹 PESTAÑA "MEDIDAS DIARIAS"
+Como fluctúan los KPIs de VTR, CPM, CTR y el alcance en el tiempo
+
